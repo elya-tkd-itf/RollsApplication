@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "319512768917",
+    "project_id": "rools-c8e0e",
+    "storage_bucket": "rools-c8e0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319512768917:android:9777f99d6d433df9cc069c",
+        "android_client_info": {
+          "package_name": "com.dasonick.rollsapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319512768917-4dvo5cotr99oq6f7tbnf5on0fkd0iul2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdouCPj7Y0XKLuDZIxMg-vdLab_CXNJzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319512768917-4dvo5cotr99oq6f7tbnf5on0fkd0iul2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
